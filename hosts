@@ -14388,7 +14388,7 @@
 0.0.0.0 apiparbion.com
 0.0.0.0 appimmobilier.com
 0.0.0.0 apple.comscoreresearch.com
-0.0.0.0 app-measurement.com
+#0.0.0.0 app-measurement.com
 0.0.0.0 argentinaglobalwines.com
 0.0.0.0 armazones.com
 0.0.0.0 asdkd.tutuapp.com
@@ -17150,9 +17150,9 @@
 0.0.0.0 thm.market.xiaomi.com
 0.0.0.0 app.market.xiaomi.com
 0.0.0.0 wtradv.market.xiaomi.com
-0.0.0.0 sgpac.account.xiaomi.com
-0.0.0.0 api.account.xiaomi.com
-0.0.0.0 api.miui.security.xiaomi.com
+#0.0.0.0 sgpac.account.xiaomi.com
+#0.0.0.0 api.account.xiaomi.com
+#0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 admomi.com
 0.0.0.0 smartlinks.dianomi.com
 0.0.0.0 adsomi.com
@@ -17161,14 +17161,14 @@
 0.0.0.0 tracking.india.miui.com
 0.0.0.0 xlmc.sec.miui.com
 0.0.0.0 adinfo.ra1.xlmc.sec.miui.com
-0.0.0.0 auth.be.sec.miui.com
-0.0.0.0 r.sg.sec.miui.com
+#0.0.0.0 auth.be.sec.miui.com
+#0.0.0.0 r.sg.sec.miui.com
 0.0.0.0 update.avlyun.sec.miui.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 pmir.sec.miui.com
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 adv.sec.miui.com
-0.0.0.0 proxy.sec.miui.com
+#0.0.0.0 proxy.sec.miui.com
 0.0.0.0 update.miui.com
 0.0.0.0 trial.api.huangye.miui.com
 0.0.0.0 mp.huangye.miui.com
@@ -17177,7 +17177,7 @@
 0.0.0.0 fcanr.tracking.miui.com
 0.0.0.0 feedback.miui.com
 0.0.0.0 api.collect.data.intl.miui.com
-0.0.0.0 data.sec.intl.miui.com
+#0.0.0.0 data.sec.intl.miui.com
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 flash.sec.intl.miui.com
 0.0.0.0 api.sec.intl.miui.com
@@ -17187,7 +17187,7 @@
 0.0.0.0 hot.newsfeed.intl.miui.com
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 api.setting.intl.miui.com
-0.0.0.0 sa.api.intl.miui.com
+#0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 h5.app.intl.miui.com
 0.0.0.0 api.launcher.intl.miui.com
 0.0.0.0 webapp.browser.intl.miui.com
@@ -17208,17 +17208,17 @@
 0.0.0.0 security.browser.miui.com
 0.0.0.0 cc.sys.miui.com
 0.0.0.0 ccc.sys.miui.com
-0.0.0.0 geofence.sys.miui.com
+#0.0.0.0 geofence.sys.miui.com
 0.0.0.0 metok.sys.miui.com
-0.0.0.0 sec-cdn.static.xiaomi.net
-0.0.0.0 pdc.micloud.xiaomi.net
-0.0.0.0 us.pdc.micloud.xiaomi.net
-0.0.0.0 us.find.api.micloud.xiaomi.net
+#0.0.0.0 sec-cdn.static.xiaomi.net
+#0.0.0.0 pdc.micloud.xiaomi.net
+#0.0.0.0 us.pdc.micloud.xiaomi.net
+#0.0.0.0 us.find.api.micloud.xiaomi.net
 0.0.0.0 us.micardapi.micloud.xiaomi.net
 0.0.0.0 us.phonecallapi.micloud.xiaomi.net
-0.0.0.0 sfsapi.micloud.xiaomi.net
-0.0.0.0 us.sfsapi.micloud.xiaomi.net
-0.0.0.0 us.smsapi.micloud.xiaomi.net
+#0.0.0.0 sfsapi.micloud.xiaomi.net
+#0.0.0.0 us.sfsapi.micloud.xiaomi.net
+#0.0.0.0 us.smsapi.micloud.xiaomi.net
 0.0.0.0 us.statusapi.micloud.xiaomi.net
 0.0.0.0 us.galleryapi.micloud.xiaomi.net
 0.0.0.0 resolver.msg.xiaomi.net
@@ -20985,7 +20985,7 @@ css.zohostatic.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 apiv4.subiz.com
 0.0.0.0 filev4.subiz.com
-0.0.0.0 clients4.google.com
+
 0.0.0.0 ws-0.subiz.com
 0.0.0.0 widgetv4.subiz.com
 0.0.0.0 scripts.donglogs.com
@@ -21022,11 +21022,19 @@ css.zohostatic.com
 0.0.0.0 microad.net
 0.0.0.0 microadinc.com
 0.0.0.0 mobiad.yestech.vn
+0.0.0.0 log.m.sm.cn
+0.0.0.0 rp.m.hub.sandai.net
 
-
-
-
-
+0.0.0.0 hub5pn.wap.sandai.net
+0.0.0.0 hub5u.wap.sandai.net
+0.0.0.0 master.wap.dphub.sandai.net
+0.0.0.0 hub5pn.wap.sandai.net
+0.0.0.0 master.wap.dphub.sandai.net
+0.0.0.0 hub5u.wap.sandai.net
+0.0.0.0 hub5pnc.sandai.net
+0.0.0.0 idx.m.hub.sandai.net
+0.0.0.0 hub5pnc.sandai.net
+0.0.0.0 idx.m.hub.sandai.net
 
 
 
